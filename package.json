@@ -1,0 +1,22 @@
+{
+  "name": "@popechia/tutorial-javascrip",
+  "version": "1.0.0",
+  "description": "Tutoriales Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popechia/tutorial-javascrip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popechia/tutorial-javascrip/issues"
+  },
+  "homepage": "https://github.com/popechia/tutorial-javascrip#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  }
+}
